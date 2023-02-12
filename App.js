@@ -8,12 +8,10 @@ import Store from "./store";
 export default function App() {
   return (
     <>
-      <StatusBar style="auto"  />
+      <StatusBar style="auto" />
       <Provider store={Store}>
-      <StackNavigator />
+        <StackNavigator />
       </Provider>
-        
-     
     </>
   );
 }
