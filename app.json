@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "eff32bda-3465-4c30-865f-940e104cb7b6"
+      }
+    },
+    "owner": "karakura"
   }
 }
